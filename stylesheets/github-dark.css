@@ -1,8 +1,3 @@
-/*!
- * GitHub Dark v0.3.0
- * Copyright (c) 2012 - 2016 GitHub, Inc.
- * Licensed under MIT (https://github.com/primer/github-syntax-theme-generator/blob/master/LICENSE)
- */
 
 .pl-c /* comment, punctuation.definition.comment, string.comment */ {
   color: #969896;
